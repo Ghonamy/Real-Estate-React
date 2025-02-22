@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Outfit", serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --text-color: #6b7280;
+  --button-color: #2563eb;
+}
